@@ -44,7 +44,7 @@ Example:
 
 ```yaml
 # site.yml
-description: EunwooOps is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
 ```
 
 #### `tags`
@@ -235,13 +235,13 @@ To see how your website is going to look like when you deploy it, run `bundle ex
 
 Type: *hexadecimal*
 
-Default: ![#ff0a16](https://placehold.it/15/ff0a16/000000?text=+) `#FF0A16`
+Default: ![#ffffff](https://placehold.it/15/ffffff/000000?text=+) `#ffffff`
 
 Color used in links, icons and some custom elements.
 
 ```yaml
 # theme.yml
-themeColor: "#ff0a16"
+themeColor: "#ffffff"
 ```
 
 #### `primaryDark`
