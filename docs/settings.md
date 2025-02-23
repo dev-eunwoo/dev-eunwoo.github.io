@@ -18,7 +18,7 @@ Example:
 
 ```yaml
 # site.yml
-name: Jekflix
+name: EunwooOps
 ```
 
 #### `title`
@@ -31,7 +31,7 @@ Example:
 
 ```yaml
 # site.yml
-title: Jekflix | A blog theme for Jekyll
+title: EunwooOps | A blog theme for Jekyll
 ```
 
 #### `description`
@@ -44,7 +44,7 @@ Example:
 
 ```yaml
 # site.yml
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+description: EunwooOps is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
 ```
 
 #### `tags`

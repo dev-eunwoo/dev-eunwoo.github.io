@@ -7,16 +7,12 @@ tags:
   - jekyll
   - theme
   - netlify
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
 email: dev.eunwoo@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
