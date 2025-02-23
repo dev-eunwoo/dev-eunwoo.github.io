@@ -8,30 +8,6 @@
       "categories" : "blog",
       "url"      : "/welcome-to-the-desert-of-the-real/",
       "date"     : "05/17/2019"
-    } ,
-  
-    {
-      "title"    : "Why books should be your priority?",
-      "tags"     : "books and read",
-      "categories" : "life",
-      "url"      : "/why-books-should-be-your-priority/",
-      "date"     : "11/22/2018"
-    } ,
-  
-    {
-      "title"    : "A wonderful serenity has taken possession of my entire soul",
-      "tags"     : "platform, javascript, and vscode",
-      "categories" : "code",
-      "url"      : "/a-wonderful-serenity-has-taken-possession-of-my-entire-soul/",
-      "date"     : "07/20/2018"
-    } ,
-  
-    {
-      "title"    : "Candy, candies, candy!",
-      "tags"     : "food and tips",
-      "categories" : "diet",
-      "url"      : "/candy-candies-candy/",
-      "date"     : "04/21/2018"
     } 
   
 ]

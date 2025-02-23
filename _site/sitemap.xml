@@ -199,27 +199,6 @@
             <lastmod>2019-05-17</lastmod>
         </url>
     
-        <url>
-            <loc>http://localhost:4000/why-books-should-be-your-priority/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2018-11-22</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/a-wonderful-serenity-has-taken-possession-of-my-entire-soul/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2018-07-20</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/candy-candies-candy/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2018-04-21</lastmod>
-        </url>
-    
     
         <url>
             <loc>http://localhost:4000/authors/mranderson/</loc>
