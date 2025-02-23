@@ -31,7 +31,7 @@ Example:
 
 ```yaml
 # site.yml
-title: EunwooOps | A blog theme for Jekyll
+title: EunwooOps
 ```
 
 #### `description`
