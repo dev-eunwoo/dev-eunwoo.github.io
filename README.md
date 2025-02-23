@@ -104,7 +104,7 @@ tags:
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
+email: dev.eunwoo@gmail.com
 disqus_username: disqus_username
 show_hero: true
 menu:
