@@ -5,48 +5,20 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Feb 2025 17:00:08 +0900</pubDate>
-    <lastBuildDate>Sun, 23 Feb 2025 17:00:08 +0900</lastBuildDate>
+    <pubDate>Mon, 24 Feb 2025 15:56:38 +0900</pubDate>
+    <lastBuildDate>Mon, 24 Feb 2025 15:56:38 +0900</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
-        <title>Welcome to EunwooOps</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Sun, 23 Feb 2025 16:58:00 +0900</pubDate>
+        <title>My Journey to Becoming a DevOps Engineer</title>
+        <description>&lt;h2 id=&quot;devops-엔지니어가-되기-위한-여정-첫걸음과-배운-점&quot;&gt;DevOps 엔지니어가 되기 위한 여정: 첫걸음과 배운 점&lt;/h2&gt; &lt;h2 id=&quot;🔥-시작하며&quot;&gt;🔥 시작하며&lt;/h2&gt; &lt;p&gt;DevOps 엔지니어가 되기로 결심한 후, 어떤 것을 배워야 할지 막막했던 기억이 납니다. 이 글에서는 제가 DevOps를 공부하며 처음으로 배운 것들과 시행착오를 공유하려 합니다.&lt;/p&gt; &lt;h2 id=&quot;🚀-devops를-배우기-위한-첫걸음&quot;&gt;🚀 DevOps를 배우기 위한 첫걸음&lt;/h2&gt; &lt;p&gt;DevOps는 개발(Development)과 운영(Operations)의 조합으로, 소프트웨어 개발과 IT 운영을 자동화하고 최적화하는 것을 목표로 합니다. 저는 다음과 같은 기술을 먼저 익히기 시작했습니다.&lt;/p&gt; &lt;h3 id=&quot;1️⃣-리눅스-기본-명령어&quot;&gt;1️⃣ 리눅스 기본 명령어&lt;/h3&gt; &lt;p&gt;DevOps 환경에서는 대부분 리눅스 서버를 사용하기 때문에 기본적인 명령어를 익히는 것이 중요합니다.&lt;/p&gt; &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;ls&lt;/span&gt; ~|-|al ~|#| 파일 목록 보기 &lt;span class=&quot;nb&quot;&gt;cd&lt;/span&gt; /path/to/directory ~|#| 디렉토리 이동 &lt;span class=&quot;nb&quot;&gt;cat &lt;/span&gt;file.txt ~|#| 파일...</description>
+        <pubDate>Mon, 24 Feb 2025 15:26:00 +0900</pubDate>
         <link>http://localhost:4000/test/</link>
         <guid isPermaLink="true">http://localhost:4000/test/</guid>
         
-        <category>welcome</category>
+        <category>Basic</category>
         
-        <category>blog</category>
-        
-        <category>blog</category>
-      </item>
-    
-      <item>
-        <title>Welcome to EunwooOps</title>
-        <description>&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt; &lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt; &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;return a + b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt; &lt;p&gt;Aenean lacinia bibendum nulla sed consectetur....</description>
-        <pubDate>Sun, 23 Feb 2025 16:58:00 +0900</pubDate>
-        <link>http://localhost:4000/test/2/</link>
-        <guid isPermaLink="true">http://localhost:4000/test/2/</guid>
-        
-        <category>welcome</category>
-        
-        <category>blog</category>
-        
-        <category>blog</category>
-      </item>
-    
-      <item>
-        <title>Welcome to EunwooOps</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Sun, 23 Feb 2025 16:58:00 +0900</pubDate>
-        <link>http://localhost:4000/test/view-all/</link>
-        <guid isPermaLink="true">http://localhost:4000/test/view-all/</guid>
-        
-        <category>welcome</category>
-        
-        <category>blog</category>
+        <category>DevOps</category>
         
         <category>blog</category>
       </item>

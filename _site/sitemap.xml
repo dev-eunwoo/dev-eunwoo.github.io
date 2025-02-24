@@ -182,21 +182,7 @@
             <loc>http://localhost:4000/test/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
-            <lastmod>2025-02-23</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/test/2/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2025-02-23</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/test/view-all/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2025-02-23</lastmod>
+            <lastmod>2025-02-24</lastmod>
         </url>
     
     
