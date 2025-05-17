@@ -242,7 +242,7 @@ button:focus {
 }
 
 /* Skills */
-#skills {
+/* #skills {
     background-color: var(--color-primary-variant);
     color: var(--color-text);
 }
@@ -302,11 +302,11 @@ button:focus {
 .bar__value {
     height: 3px;
     background-color: var(--color-accent);
-}
+} */
 
 /* Work */
-#work {
-    background-color: var(--color-primary);
+#blog {
+    background-color: var(--color-primary-variant);
     color: var(--color-text);
 }
 
@@ -351,7 +351,7 @@ button:focus {
     top: 0;
 }
 
-.projects {
+.posts {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(2, 1fr);
@@ -359,22 +359,22 @@ button:focus {
     transition: all 200ms ease-out;
 }
 
-.projects.anim-out {
+.posts.anim-out {
     opacity: 0;
     transform: scale(0.96) translateY(20px);
 }
 
-.project {
+.post {
     position: relative;
     border-radius: 8px;
     overflow: hidden;
 }
 
-.project__img {
+.post__img {
     width: 100%;
 }
 
-.project_metadata {
+.post__metadata {
     position: absolute;
     top: 0;
     left: 0;
@@ -390,12 +390,12 @@ button:focus {
     transform: translateY(-10px);
 }
 
-.project_metadata:hover {
+.post__metadata:hover {
     opacity: 0.8;
     transform: translateY(0px);
 }
 
-.project__title:after {
+.post__title:after {
     content: '';
     display: block;
     position: relative;
@@ -409,7 +409,7 @@ button:focus {
 
 /* Testimonial */
 
-.testimonials {
+/* .testimonials {
     margin: 3rem;
 }
 
@@ -441,7 +441,7 @@ button:focus {
     color: var(--color-accent);
     font-weight: bold;
     filter: brightness(70%);
-}
+} */
 
 /* Arrow Up */
 .arrow-up {
